@@ -5,7 +5,7 @@ Usage:
 
 from fibonacci import fibonacci
 
-for n in range(19):
+for n in range(15):
 	print(fibonacci(n))
 
 Hello World.
